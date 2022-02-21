@@ -1,16 +1,20 @@
-### Hi there 👋
+I serve as Staff Contact in several [W3C](https://www.w3.org/) Working Groups.
 
-<!--
-**xfq/xfq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects hosted here
 
-Here are some ideas to get you started:
+Documentation about internationalization:
+* [**scripts**](https://github.com/xfq/scripts) - Note on scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Chinese translations:
+* [**BCP 47**](https://xfq.github.io/translation/bcp47/index.zh-Hans.html) - Standardized language tags (incomplete)
+
+Miscellaneous:
+* [**glossary**](https://github.com/xfq/glossary) - Glossaries for personal use
+* [**medical-notes**](https://github.com/xfq/medical-notes) - Medical notes for personal use
+
+### Project hosted elsewhere
+
+* CSS Working Group specifications hosted in [csswg-drafts](https://github.com/w3c/csswg-drafts/)
+* contributions to [MDN Web Docs](https://developer.mozilla.org/)
+* contributions to the [language enablement](https://www.w3.org/International/layout) documents and other documents in the [W3C Internationalization Activity](https://www.w3.org/International/)
+* contributions to [GNU Emacs](https://www.gnu.org/software/emacs/)
