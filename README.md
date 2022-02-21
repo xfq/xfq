@@ -12,7 +12,7 @@ Miscellaneous:
 * [**glossary**](https://github.com/xfq/glossary) - Glossaries for personal use
 * [**medical-notes**](https://github.com/xfq/medical-notes) - Medical notes for personal use
 
-### Project hosted elsewhere
+### Projects hosted elsewhere
 
 * CSS Working Group specifications hosted in [csswg-drafts](https://github.com/w3c/csswg-drafts/)
 * contributions to the [MiniApps Working Group](https://www.w3.org/2021/miniapps/) specifications
