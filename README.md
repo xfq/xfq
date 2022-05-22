@@ -17,5 +17,5 @@ Miscellaneous:
 * CSS Working Group specifications hosted in [csswg-drafts](https://github.com/w3c/csswg-drafts/)
 * contributions to the [MiniApps Working Group](https://www.w3.org/2021/miniapps/) specifications
 * contributions to [MDN Web Docs](https://developer.mozilla.org/)
-* contributions to the [language enablement](https://www.w3.org/International/layout) documents and other documents in the [W3C Internationalization Activity](https://www.w3.org/International/)
+* contributions to the [language enablement](https://www.w3.org/International/i18n-drafts/nav/languagedev) documents and other documents in the [W3C Internationalization Activity](https://www.w3.org/International/)
 * contributions to [GNU Emacs](https://www.gnu.org/software/emacs/)
