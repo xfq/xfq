@@ -5,10 +5,8 @@ I serve as Staff Contact in several [W3C](https://www.w3.org/) Working Groups.
 Documentation about internationalization:
 * [**scripts**](https://github.com/xfq/scripts) - Note on scripts
 
-Chinese translations:
-* [**BCP 47**](https://xfq.github.io/translation/bcp47/index.zh-Hans.html) - Standardized language tags (incomplete)
-
 Miscellaneous:
+* [**translations**](https://github.com/xfq/translation) - Unofficial translations for a few specifications
 * [**glossary**](https://github.com/xfq/glossary) - Glossaries for personal use
 * [**medical-notes**](https://github.com/xfq/medical-notes) - Medical notes for personal use
 
