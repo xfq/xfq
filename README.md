@@ -9,6 +9,7 @@ Miscellaneous:
 * [**translations**](https://github.com/xfq/translation) - Unofficial translations for a few specifications
 * [**glossary**](https://github.com/xfq/glossary) - Glossaries for personal use
 * [**medical-notes**](https://github.com/xfq/medical-notes) - Medical notes for personal use
+* [**zhuangxiu**](https://github.com/xfq/zhuangxiu) - Decoration Guide for personal use
 
 ### Projects hosted elsewhere
 
