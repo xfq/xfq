@@ -23,6 +23,7 @@ I lead internationalization efforts at [W3C](https://www.w3.org/), working to en
 
 ## Projects
 
+- [cjk-layout-lab](https://github.com/xfq/cjk-layout-lab) - A set of demos focused on CJK layout
 - [scripts](https://github.com/xfq/scripts) - Notes on writing systems
 - [translations](https://github.com/xfq/translation) - Unofficial spec translations
 - [glossary](https://github.com/xfq/glossary) - Terminology glossaries
