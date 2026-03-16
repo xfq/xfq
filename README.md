@@ -25,8 +25,9 @@ I lead internationalization efforts at [W3C](https://www.w3.org/), working to en
 
 - [cjk-layout-lab](https://github.com/xfq/cjk-layout-lab) - A set of demos focused on CJK layout
 - [scripts](https://github.com/xfq/scripts) - Notes on writing systems
-- [translations](https://github.com/xfq/translation) - Unofficial spec translations
+- [bcp47-cli](https://github.com/xfq/bcp47-cli) - CLI for validating and explaining language tags
 - [glossary](https://github.com/xfq/glossary) - Terminology glossaries
+- [translations](https://github.com/xfq/translation) - Unofficial spec translations
 
 ## Personal
 
