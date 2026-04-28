@@ -28,6 +28,7 @@ I lead internationalization efforts at [W3C](https://www.w3.org/), working to en
 - [bcp47-cli](https://github.com/xfq/bcp47-cli) - CLI for validating and explaining language tags
 - [glossary](https://github.com/xfq/glossary) - Terminology glossaries
 - [translations](https://github.com/xfq/translation) - Unofficial spec translations
+- [clreq-quiz](https://github.com/xfq/clreq-quiz) - An interactive quiz for exploring Chinese text layout rules
 
 ## Personal
 
