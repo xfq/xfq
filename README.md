@@ -24,8 +24,8 @@ I lead internationalization efforts at [W3C](https://www.w3.org/), working to en
 ## Projects
 
 - [cjk-layout-lab](https://github.com/xfq/cjk-layout-lab) - A set of demos focused on CJK layout
-- [i18n-guidance](https://github.com/xfq/i18n-guidance) - Agent skills for finding focused W3C internationalization guidance
 - [clreq-skills](https://github.com/xfq/clreq-skills) - Chinese web text layout guidance for coding agents
+- [i18n-guidance](https://github.com/xfq/i18n-guidance) - Agent skills for finding focused W3C internationalization guidance
 - [scripts](https://github.com/xfq/scripts) - Notes on writing systems
 - [bcp47-cli](https://github.com/xfq/bcp47-cli) - CLI for validating and explaining language tags
 - [glossary](https://github.com/xfq/glossary) - Terminology glossaries
